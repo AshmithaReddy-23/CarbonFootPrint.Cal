@@ -55,7 +55,12 @@ This creates a dist/ folder for deployment.
 
 https://melodious-fairy-5cf8db.netlify.app/
 
-## Screenshots
+## Screenshots	
+
+  •	Home / Input Page
+Shows the form where users enter transportation, energy usage, diet, shopping, and recycling details.
+	•	Input Interaction
+Displays how values are entered and updated in a user-friendly, responsive interface.
 
 <img width="1280" height="715" alt="Screenshot 2025-12-26 at 12 50 51 PM" src="https://github.com/user-attachments/assets/fba4a9f2-c0f9-43de-9a64-455d7694eac3" />
 
@@ -67,6 +72,10 @@ https://melodious-fairy-5cf8db.netlify.app/
 
 
 <img width="1279" height="715" alt="Screenshot 2025-12-26 at 12 52 06 PM" src="https://github.com/user-attachments/assets/d2cfb573-120d-4700-b5e4-3f25ff677e93" />
+
+
+Results Page
+Presents the calculated annual carbon footprint with a clear breakdown by category.
 
 
 <img width="1280" height="714" alt="Screenshot 2025-12-26 at 12 52 23 PM" src="https://github.com/user-attachments/assets/e2ac8abc-5d0f-4662-831c-26763fc48d4d" />
