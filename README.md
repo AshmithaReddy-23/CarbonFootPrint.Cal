@@ -37,52 +37,65 @@ The application provides clear results, personalized tips, and an eco-friendly u
 - Node.js (LTS version)
 
 ### Installation
-```bash
 npm install
 
-Run the App
+### Run the App
 npm run dev
-
 
 Open in browser:
 http://localhost:5173
 
-Build for Production
-npm run build
+## Build for Production
 
+npm run build
 
 This creates a dist/ folder for deployment.
 
-Live Demo
+## Live Demo
 
-🔗 https://melodious-fairy-5cf8db.netlify.app/
+https://melodious-fairy-5cf8db.netlify.app/
 
-Screenshots
-Home / Input Page
+## Screenshots	
 
+  •	Home / Input Page
 Shows the form where users enter transportation, energy usage, diet, shopping, and recycling details.
 
-<img width="1280" height="715" alt="Home Page" src="https://github.com/user-attachments/assets/fba4a9f2-c0f9-43de-9a64-455d7694eac3" /> <img width="1280" height="716" alt="Input Form" src="https://github.com/user-attachments/assets/c5ce7fb3-da1d-4fdb-a2c8-b0baa757749b" />
-Input Interaction
-
+  •	Input Interaction
 Displays how values are entered and updated in a user-friendly, responsive interface.
 
-<img width="832" height="348" alt="Input Interaction" src="https://github.com/user-attachments/assets/c8e0d181-d8d9-4e8d-93e0-2f357dfa378c" /> <img width="1279" height="715" alt="Form Interaction" src="https://github.com/user-attachments/assets/d2cfb573-120d-4700-b5e4-3f25ff677e93" />
-Results Page
+<img width="1280" height="715" alt="Screenshot 2025-12-26 at 12 50 51 PM" src="https://github.com/user-attachments/assets/fba4a9f2-c0f9-43de-9a64-455d7694eac3" />
 
-Presents the calculated annual carbon footprint with a clear breakdown by category and personalized insights.
 
-<img width="1280" height="714" alt="Results Overview" src="https://github.com/user-attachments/assets/e2ac8abc-5d0f-4662-831c-26763fc48d4d" /> <img width="1280" height="715" alt="Emission Breakdown" src="https://github.com/user-attachments/assets/188bcb28-b191-4bd5-9088-9c4f7c2b3951" /> <img width="1280" height="715" alt="Personalized Tips" src="https://github.com/user-attachments/assets/e420fa87-2c46-4cc2-ab32-e89df259cccb" />
-Contributing
+<img width="1280" height="716" alt="Screenshot 2025-12-26 at 12 51 32 PM" src="https://github.com/user-attachments/assets/c5ce7fb3-da1d-4fdb-a2c8-b0baa757749b" />
 
-Fork the repository
 
-Create a new branch
+<img width="832" height="348" alt="Screenshot 2025-12-26 at 12 51 52 PM" src="https://github.com/user-attachments/assets/c8e0d181-d8d9-4e8d-93e0-2f357dfa378c" />
 
-Make changes
 
-Submit a pull request
+<img width="1279" height="715" alt="Screenshot 2025-12-26 at 12 52 06 PM" src="https://github.com/user-attachments/assets/d2cfb573-120d-4700-b5e4-3f25ff677e93" />
 
-Author
+
+## Results Page
+Presents the calculated annual carbon footprint with a clear breakdown by category.
+
+
+<img width="1280" height="714" alt="Screenshot 2025-12-26 at 12 52 23 PM" src="https://github.com/user-attachments/assets/e2ac8abc-5d0f-4662-831c-26763fc48d4d" />
+
+
+<img width="1280" height="715" alt="Screenshot 2025-12-26 at 12 52 39 PM" src="https://github.com/user-attachments/assets/188bcb28-b191-4bd5-9088-9c4f7c2b3951" />
+
+
+<img width="1280" height="715" alt="Screenshot 2025-12-26 at 12 52 53 PM" src="https://github.com/user-attachments/assets/e420fa87-2c46-4cc2-ab32-e89df259cccb" />
+
+## Contributing
+
+1. Fork the repository
+2. Create a new branch
+3. Make changes
+4. Submit a pull request
+
+
+## Author
 
 Developed by Ashmitha Reddy
+
