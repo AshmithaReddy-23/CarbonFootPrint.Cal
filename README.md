@@ -53,22 +53,17 @@ This creates a dist/ folder for deployment.
 
 ## Live Demo
 
-(Add your Netlify deployed link here)
+https://melodious-fairy-5cf8db.netlify.app/
 
 ## Screenshots
 
-Add screenshots of the application UI here.
-
-Example:
-screenshots/home.png  
-screenshots/results.png
-
-## Project Purpose
-
-This project was developed as a learning-based frontend project to:
-- Understand React state management
-- Learn modern frontend tools
-- Build a real-world sustainability application
+png<img width="1280" height="715" alt="Screenshot 2025-12-26 at 12 50 51 PM" src="https://github.com/user-attachments/assets/fba4a9f2-c0f9-43de-9a64-455d7694eac3" />
+<img width="1280" height="716" alt="Screenshot 2025-12-26 at 12 51 32 PM" src="https://github.com/user-attachments/assets/c5ce7fb3-da1d-4fdb-a2c8-b0baa757749b" />
+<img width="832" height="348" alt="Screenshot 2025-12-26 at 12 51 52 PM" src="https://github.com/user-attachments/assets/c8e0d181-d8d9-4e8d-93e0-2f357dfa378c" />
+<img width="1279" height="715" alt="Screenshot 2025-12-26 at 12 52 06 PM" src="https://github.com/user-attachments/assets/d2cfb573-120d-4700-b5e4-3f25ff677e93" />
+<img width="1280" height="714" alt="Screenshot 2025-12-26 at 12 52 23 PM" src="https://github.com/user-attachments/assets/e2ac8abc-5d0f-4662-831c-26763fc48d4d" />
+<img width="1280" height="715" alt="Screenshot 2025-12-26 at 12 52 39 PM" src="https://github.com/user-attachments/assets/188bcb28-b191-4bd5-9088-9c4f7c2b3951" />
+<img width="1280" height="715" alt="Screenshot 2025-12-26 at 12 52 53 PM" src="https://github.com/user-attachments/assets/e420fa87-2c46-4cc2-ab32-e89df259cccb" />
 
 ## Contributing
 
@@ -77,10 +72,7 @@ This project was developed as a learning-based frontend project to:
 3. Make changes
 4. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Author
 
-Developed by Your Name
+Developed by Ashmitha Reddy
